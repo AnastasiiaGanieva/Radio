@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class RadioProject {
+public class RadioProjectTest {
 
     private int maxStation = 10;
     private int minStation = 0;
